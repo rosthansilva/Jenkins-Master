@@ -21,7 +21,7 @@ sudo rpm --import https://pkg.jenkins.io/redhat/jenkins.io.key
 ```
 sudo yum install -y jenkins
 
-#Snha de desbloquio do Jenkins
+#Senha de desbloquio do Jenkins
 cat /var/lib/jenkins/secrets/initialAdminPassword
 
 
